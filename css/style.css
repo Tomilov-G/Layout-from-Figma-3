@@ -251,6 +251,8 @@ ul > li.nav__buttons:hover {
     background-size: cover;
     background-position: center center;
     background-size: 100% 100%;
+    position: relative;
+    top: 1px;
 }
 .text-h2__get-in-touch {
     padding-top: 120px;
